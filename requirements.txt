@@ -1,0 +1,4 @@
+ccxt==1.7.124
+#jupyter==1.0.0
+#pandas==0.20.3
+#ipykernel==4.6.1
